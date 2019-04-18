@@ -4,7 +4,9 @@ open class MyParentClass(val name: String?) {
 
 
     //constructor overloading
+    constructor( name : String?, company: String?) : this(name) {
 
+    }
 
 
 

@@ -1,6 +1,6 @@
 package demo
 
-class MyClass(val username: String?) : MyParentClass(username) {
+class MyClass(val username: String?) : MyParentClass(username, null) {
 
 
     //static variables
