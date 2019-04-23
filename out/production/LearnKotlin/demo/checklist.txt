@@ -1,0 +1,38 @@
+
+object oriented programming
+    Encapsulation
+
+    Inheritence
+
+    Polymorphism
+        method overloading
+        method overriding
+
+    mutable or changeable
+
+    immutable or final or unchangeable
+
+    static variables
+
+    String concatenations and interpolation
+
+    making a value or variable nullable
+
+    instancce of -> is
+
+    casting -> as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
