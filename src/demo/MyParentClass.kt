@@ -2,10 +2,12 @@ package demo
 
 open class MyParentClass(val name: String?) {
 
-
+    companion object {
+        var COMPANY : String? = null
+    }
     //constructor overloading
-    constructor( name : String?, company: String?) : this(name) {
-
+    constructor( name : String?, company: String? = "") : this(name) {
+        COMPANY = company
     }
 
 
